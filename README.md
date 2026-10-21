@@ -1,10 +1,10 @@
-### ⚠️ Work in progress! ⚠️
+### ‼️ Abandoned ‼️
 
 # 🍵 My Tech Blog  
 
 A blog made with [Fuwari](https://github.com/saicaca/fuwari) and Astro.
 
-Live link coming after I write my first post!
+I've decided to not use this theme because the template is abandoned. Other updated forks and templates based on Fuwari exist, so I will use one of those instead. This repo will stay up so I can study it and come back to it later.
 
 ## 🚀 Prerequisites
 - ![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen) Node.js >= 20
