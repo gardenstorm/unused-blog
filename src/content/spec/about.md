@@ -1,6 +1,15 @@
-# About Me
+<!-- TO DO:
+- 
+-->
 
-Hi👋, I'm Erika. Instead of using centralized social media, I've started my own blog to communicate with the world.
+## Welcome to my tech blog! 
+
+> _"A jack of all trades is a master of none, 
+> but oftentimes better than a master of one."_
+
+I like design and the challenge of making things work, be it code or managing my family's WiFi. 
+
+Instead of using centralized social media, I've started my own blog to communicate with the world. 
 
 Topics will include:
 
@@ -15,20 +24,6 @@ Topics will include:
 - Netlify for deployment
 - VS Code for coding and managing Astro
 - Obsidian to draft posts
-- Notion for organizing notes and ideas
-
-### Image sources
 
 - My personal library of photos I've taken
-  - Banner image is from inside the [Conservatory of Flowers](https://gggp.org/conservatory-of-flowers/) in San Francisco's Golden Gate Park. Taken with a Galaxy Note 20 Ultra.
-  - Avatar is a cool photo of one of my cats. Taken with a Galaxy S24 Ultra.
-
-## AI usage
-
-I will use LLMs for:
-
-- Editing
-- Proofreading
-- Brainstorming
-- Research assistance
-- Learning
+	- Banner image is from inside the [Conservatory of Flowers](https://gggp.org/conservatory-of-flowers/) in San Francisco's Golden Gate Park. Taken with a Galaxy Note 20 Ultra.
