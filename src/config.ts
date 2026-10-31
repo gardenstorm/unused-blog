@@ -9,7 +9,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "Erika Nieves's Blog",
-	subtitle: "Thoughts on tech.",
+	subtitle: "Thoughts on tech",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 180, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -22,7 +22,7 @@ export const siteConfig: SiteConfig = {
 		credit: {
 			enable: true, // Display the credit text of the banner image
 			text: "Erika Nieves", // Credit text to be displayed
-			url: "", // (Optional) URL link to the original artwork or artist's page
+			url: "/about/#image-sources", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
